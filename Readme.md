@@ -1,1 +1,3 @@
 # Matematikai programcsomagok beadandó
+## Reál, nominális GDP és a regressziós egyenes
+Az első Jupyter Notebookban beolvastuk a nominális gdp-t tartalmazó adatokat (forrás: Economic Statistics Branch of the United Nations Statistics Division) és a gdp-deflátorokat tartalmazó csv-t (forrás: World Bank). Ezek segítségével, egy kis tisztítás után megkaptuk az évenkénti inflációhoz igazított (reál) GDP-t. A plot_together függvény 4 különböző ábrát rajzol fel. Ezek közül a legfontosabb a reál gdp-re illesztett regressziós egyenes, ami közel áll a közgazdaságtanban használt növekedési trendre. Az r^2 értékek a legtöbb jelentős országnál 0.7 fölé esik. Az r^2 érték akár az ország gazdasági stabilitására is jó mutatóként tud szolgálni.
