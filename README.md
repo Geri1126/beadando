@@ -4,3 +4,4 @@ Az első Jupyter Notebookban beolvastuk a nominális gdp-t tartalmazó adatokat 
 ![alt text](https://github.com/Geri1126/beadando/blob/main/kepek/Germany.png?raw=true)
 ## Térképek
 A projekt utolsó állomása az eredmények térképre rajzolása. A térképen könnyen elkülöníthetők, észrevehetők lettek az országok, régiók közötti különbségek, határok és tendenciák. Más adatokkal is összevetettük a számolásainkat pl.: várható élettartam (forrás: WHO), elégedettség (forrás: Gallup World Poll). Az összevetés nem nyújt nagy meglepetést, viszont szemléletesen ábrázolja az összefüggéseket. Az eltérésekkel érdemes lehet külön foglalkozni, más adatok függvényében vizsgálódni.
+![alt_text](https://github.com/Geri1126/beadando/blob/main/kepek/expectancy.png?raw=true)
