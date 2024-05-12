@@ -11,6 +11,9 @@ A kezdeti, 210 ország, különböző gazdasági mutatóját 1970-2022-ig tartal
 ## Clusterezés oktatási adatok alapján
 A kezdeti csv file (forrás: https://databank.worldbank.org/) 210 országhoz tartozó, két típusú, az ottani oktatás fejlettségét mutató adatot tartalmazott. Ezt a csv file-t megtisztítottuk, hogy csak az előző clusterezésben szereplő országokat tartalmazza. Ebből az adathalmazból is létrehoztunk minden ország adataiból egy reprezentatív vektort, majd ezeket KMeans-zel 20 clusterre osztottuk. 
 
+![alt_text](https://github.com/Geri1126/beadando/blob/main/kepek/education.png?raw=true)
+
+
 ## A két clusterezés eredméynének összehasonlítása
 A kanonikus, az országokat 3 fejlettségi csoportra osztó rendszerezést alapul véve, 3 clusterre bontottuk az országok vektorait. A 3-3 cluster közötti hasonlóságot egy contingency table-lel ábrázoltuk.
 
