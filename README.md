@@ -11,6 +11,7 @@ A kezdeti csv file (forrás: https://databank.worldbank.org/) 210 országhoz tar
 
 ## A két clusterezés eredméynének összehasonlítása
 A kanonikus, az országokat 3 fejlettségi csoportra osztó rendszerezést alapul véve, 3 clusterre bontottuk az országok vektorait. A 3-3 cluster közötti hasonlóságot egy contingency table-lel ábrázoltuk
+
 ![alt_text](https://github.com/Geri1126/beadando/blob/main/kepek/table.png?raw=true)
 
 ## Térképek
