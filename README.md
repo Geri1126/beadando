@@ -11,6 +11,7 @@ A kezdeti csv file (forrás: https://databank.worldbank.org/) 210 országhoz tar
 
 ## A két clusterezés eredméynének összehasonlítása
 A kanonikus, az országokat 3 fejlettségi csoportra osztó rendszerezést alapul véve, 3 clusterre bontottuk az országok vektorait. A 3-3 cluster közötti hasonlóságot egy contingency table-lel ábrázoltuk
+![alt_text](https://github.com/Geri1126/beadando/blob/main/kepek/table.png?raw=true)
 
 ## Térképek
 A projekt utolsó állomása az eredmények térképre rajzolása. A térképen könnyen elkülöníthetők, észrevehetők lettek az országok, régiók közötti különbségek, határok és tendenciák. Más adatokkal is összevetettük a számolásainkat pl.: várható élettartam (forrás: WHO), elégedettség (forrás: Gallup World Poll). Az összevetés nem nyújt nagy meglepetést, viszont szemléletesen ábrázolja az összefüggéseket. Az eltérésekkel érdemes lehet külön foglalkozni, más adatok függvényében vizsgálódni.
